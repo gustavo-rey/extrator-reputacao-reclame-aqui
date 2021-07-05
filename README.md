@@ -1,6 +1,6 @@
 # Extrator de Reputação do Reclame Aqui
 
-Esta aplicação bem simples que consiste em um webscrapping baseada em headless browsers para a extração da reputação do empresas do site ReclameAqui.
+Aplicação bem simples que consiste em um webscrapping baseada em headless browsers para a extração da reputação do empresas do site ReclameAqui.
 
 ### Requerimentos
 
